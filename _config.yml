@@ -22,7 +22,7 @@ title: Dr Katrina Grant
 email: katrina.grant@sydney.edu.au
 description: >- # this means to ignore newlines until "baseurl:"
   Dr Katrina Grant. Art History. Public Humanites. Digital GLAM.
-  I am an art historian with broader interests in the public humanities, digital humanities, and digital transformation in the museum and gallery sector. My research focuses on the history of gardens and landscapes and the visual culture of performance in the Early Modern period. I also work on the application of digital technologies to art history (digital mapping in particular) and humanities teaching, and have collaborated on research projects on digital projects in GLAM.
+  I am an art historian with interests in the public humanities, digital humanities, and digital transformation in the museum and gallery sector. My research focuses on the history of gardens and landscapes and the visual culture of performance in the Early Modern period. I also work on the application of digital technologies to art history (digital mapping in particular) and humanities teaching, and have collaborated on research projects on digital projects in GLAM.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  kat-grant
