@@ -6,7 +6,7 @@ categories: publications
 ---
 Collaboration, flexibility, skill-sharing: The future of museum and cultural heritage work in the age of digital transformation in Australia – Katrina Grant and Sean Minney
 
-Pleased to see this article out now in the Humanities Research Journal – a collaboration with Sean Minney who was one of my DH graduates from my time at the ANU. The article looks at ways to understand how the sector in Australia is changing in the age of digital transformation and considers how to encourage institutions to recognise the value of upskilling the staff they already have. ‘Digital’ should be a skill across all areas of work now, not just a department!
+A new article out now in the Humanities Research Journal – a collaboration with Sean Minney who was one of my DH graduates from my time at the ANU. The article looks at ways to understand how the sector in Australia is changing in the age of digital transformation and considers how to encourage institutions to recognise the value of upskilling the staff they already have. ‘Digital’ should be a skill across all areas of work now, not just a department!
 
 Read more here (open access)
 [Article here]: https://press-files.anu.edu.au/downloads/press/n10484/pdf/12_grant_minney.pdf
