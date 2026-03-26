@@ -1,9 +1,16 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2026-03-26 12:45:15 +1100
-categories: jekyll update
+title:  "New Publication"
+date:   2024-10-29 12:45:15 +1100
+categories: publications
 ---
+Collaboration, flexibility, skill-sharing: The future of museum and cultural heritage work in the age of digital transformation in Australia – Katrina Grant and Sean Minney
+
+Pleased to see this article out now in the Humanities Research Journal – a collaboration with Sean Minney who was one of my DH graduates from my time at the ANU. The article looks at ways to understand how the sector in Australia is changing in the age of digital transformation and considers how to encourage institutions to recognise the value of upskilling the staff they already have. ‘Digital’ should be a skill across all areas of work now, not just a department!
+
+Read more here (open access)
+[Article here]: https://press-files.anu.edu.au/downloads/press/n10484/pdf/12_grant_minney.pdf
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
